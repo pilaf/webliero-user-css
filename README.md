@@ -11,7 +11,7 @@ In that same extension you may have to enable the option "Highest CSS priority" 
 ## Index
 
 * [No-name-away](#no-name-away-poopno_entry_sign)
-* [Fancier health/ammo bars](#fancier-healthammo-bars)
+* [3D health/ammo bars](#3d-healthammo-bars-wip)
 * [Unobtrusive menu buttons](#unobtrusive-menu-buttons)
 * [Square dropdown menus](#square-dropdown-menus)
 
@@ -31,7 +31,7 @@ Some players use whitespace names so to make themselves less visible in-game (by
 }
 ```
 
-## Fancier health/ammo bars
+## 3D health/ammo bars (WIP)
 
 **Category:** aesthetics
 
@@ -65,6 +65,7 @@ Some players use whitespace names so to make themselves less visible in-game (by
   box-shadow: 5px 5px 20px #ffc77c;
 }
 ```
+
 ## Unobtrusive menu buttons
 
 **Category:** aesthetics, functionality
