@@ -1,4 +1,4 @@
-### No-name prevention
+### No-name-away
 
 ```css
 /* Put colons around player names (prevents whitespace names' invisibility) */
