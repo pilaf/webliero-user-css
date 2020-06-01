@@ -1,10 +1,16 @@
 ### No-name-away
 
-Some players use whitespace names so to make themselves less visible in-game (by not having a nametag). This "fixes" this by putting colons around player tags.
+Some players use whitespace names so to make themselves less visible in-game (by not having a nametag). This fixes that problem by putting colons around player tags.
+
+You can also change the colons for whatever other characters you prefer.
 
 ```css
 /* Put colons around player names (prevents whitespace names' invisibility) */
-.playername div::before, .playername div::after {
+.playername div::before {
+  content: ":";
+}
+
+.playername div::after {
   content: ":";
 }
 ```
