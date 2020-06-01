@@ -65,6 +65,8 @@ Some players use whitespace names so to make themselves less visible in-game (by
 
 **Category:** aesthetics, functionality
 
+![Unobtrusive menu buttons](screenshots/unobstrusive-menu-buttons.png)
+
 This makes the top-right menus transparent, thus returning visibility to the top-right corner. It also pushes the Main Menu button top the top-right-most corner to make better use of [Fitt's law](https://en.wikipedia.org/wiki/Fitts%27s_law).
 
 ```css
@@ -94,3 +96,5 @@ This makes the top-right menus transparent, thus returning visibility to the top
   border-radius: 0;
 }
 ```
+
+<!-- vim: set nofoldenable: -->
