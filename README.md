@@ -1,3 +1,5 @@
+# WebLiero User CSS Collection
+
 This repository contains CSS snippets you can apply to [WebLiero](https://www.webliero.com) as user CSS to either enhance HUD usability and/or aesthetics.
 
 If you use Chrome/Chromium you can use an extension like [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) to install and manage these snippets.
