@@ -4,6 +4,10 @@ This repository contains CSS snippets you can apply to [WebLiero](https://www.we
 
 If you use Chrome/Chromium you can use an extension like [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) to install and manage these snippets.
 
+In that same extension you may have to enable the option "Highest CSS priority" for these CSS rules to actually take effect.
+
+![Highest CSS priority](screenshots/user-css-setup.png)
+
 ## Index
 
 * [No-name-away](#no-name-away-poopno_entry_sign)
