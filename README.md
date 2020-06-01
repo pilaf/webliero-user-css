@@ -15,18 +15,15 @@ If you use Chrome/Chromium you can use an extension like [User JavaScript and CS
 
 **Category:** functionality
 
-Some players use whitespace names so to make themselves less visible in-game (by not having a nametag). This fixes that problem by putting colons around player tags.
-
-You can also change the colons for whatever other characters you prefer.
+Some players use whitespace names so to make themselves less visible in-game (by not having a nametag). This fixes that problem by putting colons around all players' nametags.
 
 ```css
-/* Put colons around player names (prevents whitespace names' invisibility) */
 .playername div::before {
-  content: ":";
+  content: ":"; /* change this to any other character(s) you like */
 }
 
 .playername div::after {
-  content: ":";
+  content: ":"; /* change this to any other character(s) you like */
 }
 ```
 
