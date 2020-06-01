@@ -8,7 +8,7 @@ If you use Chrome/Chromium you can use an extension like [User JavaScript and CS
 
 * [No-name-away](#no-name-away-poopno_entry_sign)
 * [Fancier health/ammo bars](#fancier-healthammo-bars)
-* [Unintrusive menu buttons](#unintrusive-menu-buttons)
+* [Unobtrusive menu buttons](#unobtrusive-menu-buttons)
 * [Square dropdown menus](#square-dropdown-menus)
 
 ## No-name-away :poop::no_entry_sign:
@@ -61,7 +61,7 @@ Some players use whitespace names so to make themselves less visible in-game (by
   box-shadow: 5px 5px 20px #ffc77c;
 }
 ```
-## Unintrusive menu buttons
+## Unobtrusive menu buttons
 
 **Category:** aesthetics, functionality
 
