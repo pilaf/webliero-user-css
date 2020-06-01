@@ -6,7 +6,7 @@ If you use Chrome/Chromium you can use an extension like [User JavaScript and CS
 
 ## Index
 
-* [No-name-away](#no-name-away-poopnoentry_sign)
+* [No-name-away](#no-name-away-poopno_entry_sign)
 * [Fancier health/ammo bars](#fancier-healthammo-bars)
 * [Unintrusive menu buttons](#unintrusive-menu-buttons)
 * [Square dropdown menus](#square-dropdown-menus)
