@@ -55,7 +55,7 @@ You can also change the colons for whatever other characters you prefer.
   box-shadow: 5px 5px 20px #ffc77c;
 }
 ```
-## Less intrusive menu buttons
+## Unintrusive menu buttons
 
 **Category:** aesthetics, functionality
 
