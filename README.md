@@ -2,6 +2,13 @@ This repository contains CSS snippets you can apply to [WebLiero](https://www.we
 
 If you use Chrome/Chromium you can use an extension like [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) to install and manage these snippets.
 
+## Index
+
+* [No-name-away](#no-name-away)
+* [Fancier health/ammo bars](#fancier-healthammo-bars)
+* [Unintrusive menu buttons](#unintrusive-menu-buttons)
+* [Square dropdown menus](#square-dropdown-menus)
+
 ## No-name-away :poop::no_entry_sign:
 
 **Category:** functionality
