@@ -8,6 +8,8 @@ In that same extension you may have to enable the option "Highest CSS priority" 
 
 ![Highest CSS priority](screenshots/user-css-setup.png)
 
+**IMPORTANT:** All the snippets displayed here are nothing more than hacks, unintended and unsupported by the developer of WebLiero. If a new version of WebLiero comes out and breaks your user CSS **DO NOT** complain to the developer.
+
 ## Index
 
 * [No-name-away](#no-name-away-poopno_entry_sign)
