@@ -2,13 +2,13 @@
 
 This repository contains CSS snippets you can apply to [WebLiero](https://www.webliero.com) as user CSS to either enhance HUD usability and/or aesthetics.
 
+**IMPORTANT:** All the snippets displayed here are nothing more than hacks, unintended and unsupported by the developer of WebLiero. If a new version of WebLiero comes out and breaks your user CSS **DO NOT** complain to the developer.
+
 If you use Chrome/Chromium you can use an extension like [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) to install and manage these snippets.
 
 In that same extension you may have to enable the option "Highest CSS priority" for these CSS rules to actually take effect.
 
 ![Highest CSS priority](screenshots/user-css-setup.png)
-
-**IMPORTANT:** All the snippets displayed here are nothing more than hacks, unintended and unsupported by the developer of WebLiero. If a new version of WebLiero comes out and breaks your user CSS **DO NOT** complain to the developer.
 
 ## Index
 
